@@ -10,15 +10,17 @@ import android.view.MenuItem;
 import android.view.View;
 
 import edu.neaga.multimulti.databinding.ActivityMainBinding;
+import edu.neaga.multimulti.databinding.ActivitySecondBinding;
+import edu.neaga.multimulti.databinding.ActivityThirdBinding;
 
-public class MainActivity extends AppCompatActivity {
-    private ActivityMainBinding binding;
+public class SecondActivity extends AppCompatActivity {
+    private ActivitySecondBinding binding;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        binding = ActivityMainBinding.inflate(getLayoutInflater());
+        binding = ActivitySecondBinding.inflate(getLayoutInflater());
         View view = binding.getRoot();
         setContentView(view);
     }
