@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/Accueil"
+            android:title="Accueil" />
+        <item
+            android:id="@+id/Profil"
+            android:title="Profil" />
+        <item
+            android:id="@+id/Déconnexion"
+            android:title="Déconnexion" />
+    </group>
+</menu>
