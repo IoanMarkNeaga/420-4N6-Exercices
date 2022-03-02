@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Aller à 1"/>
+
+    <item android:title="Aller à 2"/>
+
+    <item android:title="Aller à 3"/>
+
+</menu>

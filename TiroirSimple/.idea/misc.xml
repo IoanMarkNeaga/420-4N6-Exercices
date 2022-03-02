@@ -3,12 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/1932951/Desktop/420-4N6-Exercices/TiroirSimple/app/src/main/res/layout/activity_main.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/1932951/Desktop/420-4N6-Exercices/TiroirSimple/app/src/main/res/menu/simple_menu.xml" value="0.26979166666666665" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.23698283762171649" />
         <entry key="app/src/main/res/menu/simple_menu.xml" value="0.4036458333333333" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

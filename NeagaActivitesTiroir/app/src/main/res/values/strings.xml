@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NeagaActivitesTiroir</string>
+    <string name="nav_open">open</string>
+    <string name="nav_close">closed</string>
+</resources>
